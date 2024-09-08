@@ -10,5 +10,5 @@ Serinas may use cookies or similar tracking technologies to enhance user experie
 ## 5. Changes to the Privacy Policy
 Serinas reserves the right to update or modify the Privacy Policy. Users will be notified of any changes through the Serinas application.
 ## 6. Contact Information
-For any inquiries regarding our Privacy Policy or data practices, please contact us at privacy@sakorashop.com
+For any inquiries regarding our Privacy Policy or data practices, please contact us at support@sakora.shop
 By using Serinas, you agree to the terms outlined in this Privacy Policy.
